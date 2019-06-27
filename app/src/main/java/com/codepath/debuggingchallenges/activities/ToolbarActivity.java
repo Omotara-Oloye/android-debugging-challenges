@@ -8,7 +8,7 @@ import android.widget.Toolbar;
 import com.codepath.debuggingchallenges.R;
 
 public class ToolbarActivity extends AppCompatActivity {
-
+    Toolbar toolbar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
